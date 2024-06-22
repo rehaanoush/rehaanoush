@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Reha Anoush</h1>
+<h1 align="center">Hi, I'm Reha Anoush</h1>
 <h3 align="center">If you torture the data long enough, It will confess to anything !!</h3>
 
-- 🔭 I’m currently working at **Bytewise Limited**
+I’m currently working at: **Bytewise Limited** as a **Data Engineer**
 
-- 💬 Ask me about **Hadoop, Spark, Pig, Hive & Zookeeper**
+Ask me about: **Hadoop, Spark, Pig, Hive & Zookeeper**
 
-- 📫 How to reach me **rehaanoush@gmail.com**
+How to reach me: **rehaanoush@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C5hAKmqlGfmzsAAJnyzmnrZrJfBrZXU3/view?usp=sharing](https://drive.google.com/file/d/1C5hAKmqlGfmzsAAJnyzmnrZrJfBrZXU3/view?usp=sharing)
+Know about my experiences: [https://drive.google.com/file/d/1C5hAKmqlGfmzsAAJnyzmnrZrJfBrZXU3/view?usp=sharing](https://drive.google.com/file/d/1C5hAKmqlGfmzsAAJnyzmnrZrJfBrZXU3/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
